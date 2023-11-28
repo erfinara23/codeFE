@@ -122,7 +122,7 @@ header .intro h3 {
     padding: 0;
 }
 
-.tombol {
+.submit {
     background-color: #c86b85;
     height: 40px;
     line-height: 42px;
@@ -236,7 +236,7 @@ section.abuabu {
 .support div,
 .tim div {
     text-align: center;
-    width: 26%;
+    width: 50%;
 }
 
 section#gallery {
@@ -509,7 +509,7 @@ footer .layar-dalam .copyright {
         min-height: 72px;
         line-height: 1;
 
-        font-size: 24px;
+        font-size: 20px;
     }
 
     .ag-courses-item_link {
@@ -583,6 +583,7 @@ footer .layar-dalam .copyright {
 /* Fonts */
 body {
     font-family: Roboto;
+
 }
 
 #timeline {
@@ -738,7 +739,7 @@ p.leader2 {
 
 @media (min-width: 480px) {
     #timeline .demo-card .head h2 {
-        font-size: 165%;
+        font-size: 150%;
         line-height: 1.2rem;
     }
 }
